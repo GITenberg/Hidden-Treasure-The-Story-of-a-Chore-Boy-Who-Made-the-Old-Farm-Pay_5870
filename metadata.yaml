@@ -1,11 +1,16 @@
 _repo: Hidden-Treasure-The-Story-of-a-Chore-Boy-Who-Made-the-Old-Farm-Pay_5870
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Simpson, John Thomas
     gutenberg_agent_id: '1889'
     url: http://www.gutenberg.org/2009/agents/1889
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5870#Hidden-Treasure-The-Story-of-a-Chore-Boy-Who-Made-the-Old-Farm-Pay
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
